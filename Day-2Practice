@@ -1,0 +1,138 @@
+code-1
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+    <header>
+<h1>Hariom Shukla</h1>
+    <img src="" alt="My Image">
+    </header>
+    
+    <section>
+<h2>Education</h2>
+    <ul>
+        <li>10th class (mpbse) </li>
+        <li>12th class (mpbse) </li>
+        <li>B.Tech (Mathematics & Computing) </li>
+    </ul>
+    </section>
+    
+    <section>
+    <h2>Skills</h2>
+    <ul>
+        <li>C++,DS</li>
+        <li>HTML,CSS,JS</li>
+        <li>Algorithms</li>
+    </ul>
+    </section>
+
+    <section>
+<h2>Hobbies</h2>
+    <ul>
+        <li>Teaching</li>
+        <li>cooking</li>
+    </ul>
+    </section>
+    
+    <footer>
+<h2>Contact</h2>
+    <ul>
+        <li><b>Email:</b> hariomshukla@example.com</li>
+        <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/hariomshukla" target="_blank">Hariom Shukla</a></li>
+    </ul>
+    </footer>
+    
+    <footer>
+        <h3>This is Made With &hearts; by Me</h3>
+    </footer>
+    
+</body>
+</html>
+
+code-2
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice</title>
+</head>
+<body>
+    <h1>The sky is cloudy &#9729; &amp; it will rain &#9748; today.</h1>
+</body>
+</html>
+
+code-3
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice</title>
+</head>
+<body>
+    <form action="https://www.google.com/search?">
+        <input type="text" name="q" placeholder="Search Google">
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
+
+code-4
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice</title>
+</head>
+<body>
+    <form action="https://www.google.com/search?">
+        <input type="text" name="q" placeholder="Search Google">
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
+
+code-5
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice</title>
+</head>
+<body>
+    <h1>Registration Form</h1>
+    <form action="/action.php">
+        <input type="text" placeholder="First Name" id="fn" name="fn">
+        <input type="text" placeholder="Last Name" id="ln" name="ln"> <br>
+
+        <select>
+            <label for="gen">Please Select Gender</label>
+            <option>Choose Gender</option>
+            <option value="Male" id="gen">Male</option>
+            <option value="Female" id="gen">Female</option>
+            <option value="Other" id="gen">Others</option>
+        </select>
+        <br><br>
+
+        
+        <label for="123">Do You agree to all terms of Service?</label>
+        <input type="checkbox" id="123" name="123" value="123">
+        <label for="123">Yes,I agree</label><br>
+        <button type="Submit">Register</button>
+
+
+    </form>
+</body>
+</html>
